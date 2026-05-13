@@ -282,7 +282,7 @@ section {
 
 /* TITLES */
 
-..section-title {
+.section-title {
 
   background: linear-gradient(
     to right,
